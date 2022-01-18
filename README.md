@@ -3,5 +3,5 @@
 Detection of illeagal fishing by using object detection on satellite images to determine positions of vessels to compare to AIS-data.
 
 ## Fishing areas
-- Skagarack
+- Skagerack
 - Kattegatt
