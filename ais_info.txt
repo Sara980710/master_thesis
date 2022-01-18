@@ -1,0 +1,13 @@
+rot = Rate of Turn - right or left (0 to 720 degrees per minute)
+
+sog = Speed over Ground - 0 to 102 knots (0.1-knot resolution)
+
+lon = Position Coordinates (latitude/longitude - up to 0.0001 minutes accuracy)
+
+lat = Position Coordinates (latitude/longitude - up to 0.0001 minutes accuracy)
+
+cog = Course over Ground - up to 0.1° relative to true north
+
+heading = Heading - 0 to 359 degrees
+
+utc_s = UTC seconds - the seconds field of the UTC time when the subject data-packet was generated.
