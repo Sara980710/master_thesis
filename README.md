@@ -1,7 +1,8 @@
-# Master's thesis - Efficient Deep Learning in Space to Detect Illegal Fishing Vessels
+# master_thesis
+Detection of illeagal fishing using Satellite images and AIS 
 
-Detection of illeagal fishing by using object detection on satellite images to determine positions of vessels to compare to AIS-data.
+Yolo5
+- Article: https://www.v7labs.com/blog/yolo-object-detection#yolo-vs-other-detectors
+- Repo: https://github.com/ultralytics/yolov5
+- Train with own dataset: https://github.com/ultralytics/yolov5/wiki/Train-Custom-Data
 
-## Fishing areas where fishing is frequent
-- Skagerrak
-- Kattegatt (our focus)
