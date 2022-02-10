@@ -1,7 +1,11 @@
 # Own data
 Dataset/Original_format/test_v2/
 Dataset/Original_format/train_v2/
-Dataset/Original_format/yolo/
+Dataset/yolo/
+Dataset/yolo_test/
+
+# Yolo
+yolov5/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
