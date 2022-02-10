@@ -1,8 +1,10 @@
 # Own data
-Dataset/Original_format/test_v2/
-Dataset/Original_format/train_v2/
+Dataset/test_v2/
+Dataset/train_v2/
+Dataset/val_v2/
 Dataset/yolo/
 Dataset/yolo_test/
+Dataset/yolo_val/
 
 # Yolo
 yolov5/
