@@ -1,0 +1,27 @@
+name: yolo
+
+channels:
+  - pytorch
+  - conda-forge
+
+dependencies:
+  - python=3.7.12
+#  - cpuonly
+  - pip=19.1
+  - matplotlib=3.4.3
+  - numpy=1.21.5
+  - Pillow=8.0.0
+  - PyYAML=6.0
+  - requests=2.27.1
+  - scipy=1.7.3
+  - tqdm=4.62.3
+  - tensorboard=2.8.0 
+  - pandas=1.3.5
+  - seaborn=0.11.2
+  - pytorch=1.7.0
+  - torchvision=0.8.1
+  - opencv=4.1.2 
+  - pip:
+    - kaggle==1.5.12
+    - thop
+    - ipykernel
