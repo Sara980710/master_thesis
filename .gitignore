@@ -1,13 +1,9 @@
 # Own data
-Dataset/test_v2/
-Dataset/train_v2/
-Dataset/val_v2/
-Dataset/yolo/
-Dataset/yolo_test/
-Dataset/yolo_val/
+Dataset/
 
-# Yolo
+# Other libraries
 yolov5/
+Yolo-Training-GoogleColab/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
