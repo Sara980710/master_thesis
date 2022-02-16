@@ -1,10 +1,6 @@
-# YOLOv5 🚀 by Ultralytics, GPL-3.0 license
 
-# Train/val/test sets as 1) dir: path/to/imgs, 2) file: path/to/imgs.txt, or 3) list: [path/to/imgs1, path/to/imgs2, ..]
-path: /home/sara/Desktop/Master-thesis/master_thesis/Dataset # dataset root dir
-train: images_together  # train images (relative to 'path') 128 images
-val: images_one  # val images (relative to 'path') 128 images
-test: # test images (optional)
+train: /home/sara/Desktop/Master-thesis/master_thesis/Dataset/only_boats  # train images (relative to 'path') 128 images
+val: /home/sara/Desktop/Master-thesis/master_thesis/Dataset/val  # val images (relative to 'path') 128 images
 
 # Classes
 nc: 1  # number of classes
