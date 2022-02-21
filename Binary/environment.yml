@@ -1,0 +1,15 @@
+name: binary
+
+channels:
+  - conda-forge
+
+
+dependencies:
+  - python=3.10.2
+  - ipykernel
+  - keras=2.8.0
+  - tensorflow
+  - scikit-learn
+  - pillow
+  - matplotlib
+  - opencv=4.5.5
