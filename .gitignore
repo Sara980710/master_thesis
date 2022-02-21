@@ -4,6 +4,7 @@ Dataset/
 # Other libraries
 yolov5/
 Yolo-Training-GoogleColab/
+Binary/saves/
 
 *.jpg
 *.pt
