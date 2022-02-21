@@ -5,6 +5,9 @@ Dataset/
 yolov5/
 Yolo-Training-GoogleColab/
 
+*.jpg
+*.pt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
