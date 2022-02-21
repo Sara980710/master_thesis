@@ -1,6 +1,8 @@
 
-train: /home/sara/Desktop/Master-thesis/master_thesis/Dataset/only_boats  # train images (relative to 'path') 128 images
-val: /home/sara/Desktop/Master-thesis/master_thesis/Dataset/val  # val images (relative to 'path') 128 images
+#train: /home/sara/Desktop/Master-thesis/master_thesis/Dataset/only_boats  # train images (relative to 'path') 128 images
+#val: /home/sara/Desktop/Master-thesis/master_thesis/Dataset/val  # val images (relative to 'path') 128 images
+train: /media/ebara/46CC6137CC612303/yolo/train  # train images (relative to 'path') 128 images
+val: /media/ebara/46CC6137CC612303/yolo/val  # val images (relative to 'path') 128 images
 
 # Classes
 nc: 1  # number of classes
