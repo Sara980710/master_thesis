@@ -10,3 +10,7 @@ Yolo5
 [Kaggle Airbus Challenge](https://www.kaggle.com/c/airbus-ship-detection/overview)
 - Image size: 768x768
 - Size: 
+
+# ShuffleNetV1
+
+ShuffleNetV1 implementation is available at [ShuffleNetV1 repo](https://github.com/Ebiz95/ShuffleNetV1).
