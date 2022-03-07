@@ -5,3 +5,7 @@ Detection of illeagal fishing by using object detection on satellite images to d
 ## Fishing areas where fishing is frequent
 - Skagerrak
 - Kattegatt (our focus)
+
+# ShuffleNetV1
+
+ShuffleNetV1 implementation is available at [ShuffleNetV1 repo](https://github.com/Ebiz95/ShuffleNetV1).
