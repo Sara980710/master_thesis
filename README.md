@@ -1,15 +1,14 @@
-# master_thesis
+# Master's thesis: Efficient deep learning in space
 Detection of illeagal fishing using Satellite images and AIS 
-
-Yolo5
-- Article: https://www.v7labs.com/blog/yolo-object-detection#yolo-vs-other-detectors
-- Repo: https://github.com/Sara980710/yolov5
 
 ## Dataset used
 [Kaggle Airbus Challenge](https://www.kaggle.com/c/airbus-ship-detection/overview)
 - Image size: 768x768
 - Size: 192 555 images 
 
-# ShuffleNetV1
+## Object detection using Yolov5
+Implementation available at [Yolov5 repo](https://github.com/Sara980710/yolov5)
 
-ShuffleNetV1 implementation is available at [ShuffleNetV1 repo](https://github.com/Ebiz95/ShuffleNetV1).
+## Image classification using ShuffleNetV1
+
+Implementation available at [ShuffleNetV1 repo](https://github.com/Ebiz95/ShuffleNetV1)
