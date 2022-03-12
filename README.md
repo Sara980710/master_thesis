@@ -6,12 +6,13 @@ Detection of illeagal fishing using Satellite images and AIS
 - Image size: 768x768
 - Size: 192 555 images 
 
-## Object detection using Yolov5
+## Linked repositories
+### Object detection using Yolov5
 Implementation available at [Yolov5 repo](https://github.com/Sara980710/yolov5)
 
-## Image classification using ShuffleNetV1
+### Image classification using ShuffleNetV1
 
 Implementation available at [ShuffleNetV1 repo](https://github.com/Ebiz95/ShuffleNetV1)
 
-## TF Lite using c++
+### TF Lite using c++
 Implementation available at [TF repo](https://github.com/tensorflow/tensorflow)
