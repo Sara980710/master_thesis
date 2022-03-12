@@ -14,4 +14,4 @@ Implementation available at [Yolov5 repo](https://github.com/Sara980710/yolov5)
 Implementation available at [ShuffleNetV1 repo](https://github.com/Ebiz95/ShuffleNetV1)
 
 ## TF Lite using c++
-[TF repo](https://github.com/tensorflow/tensorflow)
+Implementation available at [TF repo](https://github.com/tensorflow/tensorflow)
