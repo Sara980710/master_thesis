@@ -2,7 +2,7 @@
 Detection of illeagal fishing using Satellite images and AIS 
 
 ## Dataset
-Taken from [Kaggle Airbus Challenge](https://www.kaggle.com/c/airbus-ship-detection/overview)
+Taken from [the Kaggle Airbus challenge](https://www.kaggle.com/c/airbus-ship-detection/overview)
 - Image size: 768x768
 - Size: 192 555 images 
 
