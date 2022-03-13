@@ -9,4 +9,4 @@ Detection of illeagal fishing using Satellite images and AIS
 ## Linked repositories
 - Object detection using Yolov5 - [repo](https://github.com/Sara980710/yolov5)
 - Image classification using ShuffleNetV1 - [repo](https://github.com/Ebiz95/ShuffleNetV1)
-- TF Lite using c++ - [repo](https://github.com/tensorflow/tensorflow)
+- TF Lite using c++ - [repo](https://github.com/Sara980710/TFLite)
